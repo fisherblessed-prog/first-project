@@ -1,0 +1,26 @@
+
+
+.logo{
+    width: 148px;
+}
+
+header{
+    padding-bottom: 92px;
+    padding-top: 92px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header-wrap{
+    display: flex;
+    justify-content: space-between;
+}
+.contact-info a{
+    display: flex;
+    font-size: 18px;
+    flex-direction: column;
+}
+.header-content a{
+    font-size: 18px;
+    padding-left:5px;
+}
